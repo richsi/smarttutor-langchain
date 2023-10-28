@@ -1,0 +1,46 @@
+Education
+2020-2024
+
+UNIVERSITY OF CALIFORNIA, SANTA CRUZ                                       SANTA CRUZ, CA   
+Bachelor of Science in Computer Engineering, Coursework: Principles of Computer System Design, Software Design Project, Data Structures and Algorithms, Logic Design, Embedded System Design, Computer Architecture, Introduction to Electronic Circuits
+Experience
+Summer 2022
+
+MOJO VISION INC.                                                                                                   SARATOGA, CA
+Software Engineer Intern, Testing and Automation
+Produced Python scripts to automate the comparison of performance metrics between releases
+Built a mobile application using Flutter that improves product demos with investors
+Researched processes of app automation software to streamline lens feature testing 
+Met daily with members of MojoVision’s software team
+
+Projects
+July 2023
+SavvyShoppers
+Worked with team member to create an item tracking website using strict Agile methods
+Client sends requests to API gateway which routes to Web Scraping Service and then adds item to frontend with a designated price. Item price history can be tracked with a graph and items can be added via chrome extension or website. Cron-Job API updates the item price once per day. A notification email will be sent to the account email once desired price has been reached
+Used Vercel for deployment, Firebase to store data, NextJS for frontend, and Python
+
+May 2023
+Multi-Threaded HTTP Server
+Created a high-performance multi-threaded HTTP Server in C
+Prioritizes concurrent request handling, efficient resource allocation, swift response times
+
+March 2023
+Slug Space Invaders
+Created the game, Space Invaders, in Verilog using a Basys3 board
+Synced VGA monitor display’s colors, pixels, object movement, and borders
+Programmed Basys3 board buttons to move, reset, and display game info
+Implemented multiple state machines to operate the game logic, displayed on the Basys3 board
+
+Feb 2023
+Personal Portfolio
+Uses ReactJS framework alongside Tailwind CSS and Github Pages to deploy
+https://richsi.github.io/rics-web/
+
+
+Skills
+Python, C/C++, Flutter, Appium, HTML/CSS, Git/Github, Verilog
+Personal
+Fluent in speaking and understanding Mandarin. Enjoys tennis, motor vehicles, and problem solving
+
+

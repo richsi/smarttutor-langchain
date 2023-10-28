@@ -1,0 +1,7 @@
+langchain
+openai
+constants
+chromadb
+tiktoken
+unstructured
+python -m pip install youtube_transcript_api
